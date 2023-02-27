@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MK16020
 - 👀 I’m interested in Learning new things and discovering new challenges
-- 🌱 I’m currently learning Vuetify framework
+- 🌱 I’m currently learning Flutter framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me m_mm_rs@hotmail.com
 
